@@ -1,0 +1,42 @@
+ nav {
+     background-color: aquamarine;
+     display: flex;
+     justify-content: center;
+
+ }
+
+ nav ul {
+     display: flex;
+ }
+
+ nav ul li {
+     list-style: none;
+     border: 1.5px rgb(196, 34, 104) white;
+     margin: 6px;
+     padding: 7px;
+     color: blanchedalmond;
+
+ }
+
+ .rewan {
+     display: flex;
+     height: 50rem;
+ }
+
+ nav ul li a:link {
+     color: rgb(227, 64, 64);
+     text-decoration: none;
+
+ }
+
+ div article {
+     background-color: black;
+     width: 70%;
+
+ }
+
+ div aside {
+     background-color: aqua;
+     width: 33%;
+
+ }
